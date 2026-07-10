@@ -8,13 +8,14 @@
 🚀 Building real-world, production-style web applications
 ✨ Interested in AWS & DevOps
 
+
 ---
 
 ### 🚀 About Me
 
 - 💻 Full Stack Developer specializing in the **MERN Stack**
 - 🎨 I care about clean, usable UI — styled with Tailwind CSS, Bootstrap & plain CSS
-- 🛠 Comfortable with real-world dev tools like Git, VS Code, Sentry, Clerk & Cloudinary
+- 🛠 Comfortable with dev tools like Git & VS Code, and integrate services like Clerk (auth), Sentry (monitoring) & Cloudinary (media)
 - ⚡ I enjoy taking a project from idea to a fully working, deployed product
 - 🎯 Goal: Keep leveling up as a Full Stack Developer and ship polished products
 
@@ -33,6 +34,13 @@
 
 **Tools**
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p>
+
+**Services & APIs**
+<p>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</p>
 
 **Cloud & DevOps** *(interested in)*
 <p><img src="https://skillicons.dev/icons?i=aws,docker" /></p>
@@ -61,7 +69,7 @@ A full-stack job board where candidates apply and companies hire.
 
 Tech: React 19 • Vite • Tailwind • Express 5 • MongoDB • Clerk • Cloudinary • Sentry • Vercel
 
-**🧠 [QuizSphere](https://github.com/krithi30011996/CODSOFT)** — [Live Demo](https://codsoft-sandy-five.vercel.app/)
+**🧠 [QuizSphere](https://github.com/krithi30011996/CODSOFT)**
 *Create • Share • Challenge • Learn*
 A modern, interactive quiz maker where users can create, manage, and take quizzes through a clean, responsive interface.
 - Create custom quizzes with multiple-choice questions
@@ -100,7 +108,6 @@ Tech: React.js • JavaScript (ES6+) • CSS3 • Vite • React Hooks • Local
 <p align="center">
   <img src="https://raw.githubusercontent.com/krithi30011996/krithi30011996/output/github-contribution-grid-snake.svg" />
 </p>
-
 
 ---
 
