@@ -1,56 +1,89 @@
 <h1 align="center">Hi there, I'm Kavipriya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(MERN);I+build+things+for+the+web;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+Stack);Interested+in+AWS+%26+DevOps;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kavipriya-magalingam-01b872294">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/krithi30011996">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+💻 Full Stack Developer (MERN Stack)
+🚀 Building real-world, production-style web applications
+✨ Interested in AWS & DevOps
 
 ---
 
 ### 🚀 About Me
 
-- 💻 I'm a **Full Stack Developer** specializing in the **MERN stack**
-- 🌱 Currently building projects with **React, Node.js, Express & MongoDB**
-- 🎨 I care about clean UI — styled with **Tailwind CSS**, **Bootstrap**, and good old **HTML/CSS**
-- 🛠️ Comfortable with real-world dev tools like **Git, VS Code, Sentry, Clerk & Cloudinary**
-- ⚡ Fun fact: I enjoy turning ideas into full working products, end to end
+- 💻 Full Stack Developer specializing in the **MERN Stack**
+- 🎨 I care about clean, usable UI — styled with Tailwind CSS, Bootstrap & plain CSS
+- 🛠 Comfortable with real-world dev tools like Git, VS Code, Sentry, Clerk & Cloudinary
+- ⚡ I enjoy taking a project from idea to a fully working, deployed product
+- 🎯 Goal: Keep leveling up as a Full Stack Developer and ship polished products
 
 ---
 
-### 🧰 Tech Stack
+### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,vscode,git" />
-</p>
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite" /></p>
 
----
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
 
-### 🔥 Current Projects
+**Database**
+<p><img src="https://skillicons.dev/icons?i=mongodb" /></p>
 
-- 🧑‍💼 **[Job Portal](https://github.com/krithi30011996/CODSOFT-TASK)** — A full-stack job portal built with the MERN stack, connecting job seekers with employers through listings, applications, and profile management.
-- 🧠 **[Quiz Maker](https://github.com/krithi30011996/CODSOFT)** — An interactive quiz builder and player app where users can create, share, and take custom quizzes in real time.
+**Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p>
 
+**Cloud & DevOps** *(interested in)*
+<p><img src="https://skillicons.dev/icons?i=aws,docker" /></p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krithi30011996&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krithi30011996&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krithi30011996&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithi30011996&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krithi30011996&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+### 🔥 Featured Projects
+
+**💼 [InsiderJobs](https://github.com/krithi30011996/CODSOFT-TASK)** — [Live Demo](https://job-portal-client-xi-lime.vercel.app/)
+A full-stack job board where candidates apply and companies hire.
+- Browse & filter jobs by category/location
+- Apply with resume upload
+- Company registration, login & job posting
+- Applicant tracking dashboard
+- Clerk auth + webhook sync
+- Sentry error monitoring
+
+Tech: React 19 • Vite • Tailwind • Express 5 • MongoDB • Clerk • Cloudinary • Sentry • Vercel
+
+**🧠 [QuizSphere](https://github.com/krithi30011996/CODSOFT)** — [Live Demo](https://codsoft-sandy-five.vercel.app/)
+*Create • Share • Challenge • Learn*
+A modern, interactive quiz maker where users can create, manage, and take quizzes through a clean, responsive interface.
+- Create custom quizzes with multiple-choice questions
+- Edit and delete quizzes
+- Attempt quizzes with instant score calculation & correct answers
+- Search, filter, sort, paginate & favorite quizzes
+- Local storage support, fully responsive UI
+
+Tech: React.js • JavaScript (ES6+) • CSS3 • Vite • React Hooks • Local Storage
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced React patterns
+- Backend architecture & API design
+- Building & shipping polished portfolio projects
+
+### 🎯 Interested In
+
+- AWS (Cloud fundamentals)
+- DevOps (CI/CD, Docker, GitHub Actions)
 
 ---
 
@@ -62,8 +95,22 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krithi30011996/krithi30011996/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+---
+
+### 📫 Connect With Me
+
+🔗 LinkedIn: [kavipriya-magalingam](https://www.linkedin.com/in/kavipriya-magalingam-01b872294)
+💻 GitHub: [krithi30011996](https://github.com/krithi30011996)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krithi30011996&label=Profile%20Views&color=2E9EF7&style=flat" />
 </p>
 
-<p align="center">⭐ Thanks for visiting my profile — feel free to connect with me on LinkedIn!</p>
+<p align="center">⭐ From Kavipriya</p>
