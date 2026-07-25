@@ -4,10 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+Stack);Interested+in+AWS+%26+DevOps;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
+
 💻 Full Stack Developer (MERN Stack)
 🚀 Building real-world, production-style web applications
 ✨ Interested in AWS & DevOps
-
 
 ---
 
@@ -24,42 +24,57 @@
 ### 🛠 Tech Stack
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite" /></p>
+
+![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite)
 
 **Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
+
+![](https://skillicons.dev/icons?i=nodejs,express)
 
 **Database**
-<p><img src="https://skillicons.dev/icons?i=mongodb" /></p>
+
+![](https://skillicons.dev/icons?i=mongodb)
 
 **Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p>
+
+![](https://skillicons.dev/icons?i=git,github,vscode)
 
 **Services & APIs**
-<p>
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</p>
+
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 **Cloud & DevOps** *(interested in)*
-<p><img src="https://skillicons.dev/icons?i=aws,docker" /></p>
+
+![](https://skillicons.dev/icons?i=aws,docker)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krithi30011996&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithi30011996&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=krithi30011996&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krithi30011996&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🔥 Featured Projects
 
+**📊 [Rank Pilot](https://github.com/krithi30011996/SEO_Rank_Tracker)** — [Live Demo](https://seo-rank-tracker-drab-alpha.vercel.app/)
+An AI-powered SEO analyzer & keyword rank tracker that audits any website and monitors its Google search rankings over time.
+
+- Instant AI-generated SEO audits (SEO, performance, accessibility & best practices scores)
+- Google keyword rank tracking across up to 5 pages of live search results
+- Automated competitor discovery for tracked keywords
+- Ranking history with interactive trend charts
+- Automated browser scraping via Playwright + Browserbase
+- Secure, authenticated per-user analysis & tracking history
+
+Tech: React • TypeScript • Vite • Tailwind CSS • Node.js • Express • MongoDB • Gemini AI • Playwright
+
 **💼 [InsiderJobs](https://github.com/krithi30011996/CODSOFT-TASK)** — [Live Demo](https://job-portal-client-xi-lime.vercel.app/)
 A full-stack job board where candidates apply and companies hire.
+
 - Browse & filter jobs by category/location
 - Apply with resume upload
 - Company registration, login & job posting
@@ -72,6 +87,7 @@ Tech: React 19 • Vite • Tailwind • Express 5 • MongoDB • Clerk • Clo
 **🧠 [QuizSphere](https://github.com/krithi30011996/CODSOFT)**
 *Create • Share • Challenge • Learn*
 A modern, interactive quiz maker where users can create, manage, and take quizzes through a clean, responsive interface.
+
 - Create custom quizzes with multiple-choice questions
 - Edit and delete quizzes
 - Attempt quizzes with instant score calculation & correct answers
@@ -97,17 +113,13 @@ Tech: React.js • JavaScript (ES6+) • CSS3 • Vite • React Hooks • Local
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krithi30011996&theme=tokyo-night&hide_border=true" />
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=krithi30011996&theme=tokyo-night&hide_border=true)
 
 ---
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krithi30011996/krithi30011996/output/github-contribution-grid-snake.svg" />
-</p>
+![](https://raw.githubusercontent.com/krithi30011996/krithi30011996/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -115,9 +127,8 @@ Tech: React.js • JavaScript (ES6+) • CSS3 • Vite • React Hooks • Local
 
 🔗 LinkedIn: [kavipriya-magalingam](https://www.linkedin.com/in/kavipriya-magalingam-01b872294)
 💻 GitHub: [krithi30011996](https://github.com/krithi30011996)
+🌐 Portfolio: [kavipriya.in](https://www.kavipriya.in/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krithi30011996&label=Profile%20Views&color=2E9EF7&style=flat" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=krithi30011996&label=Profile%20Views&color=2E9EF7&style=flat)
 
-<p align="center">⭐ From Kavipriya</p>
+⭐ From Kavipriya
