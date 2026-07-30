@@ -126,7 +126,9 @@ Tech: React.js • JavaScript (ES6+) • CSS3 • Vite • React Hooks • Local
 ### 📫 Connect With Me
 
 🔗 LinkedIn: [kavipriya-magalingam](https://www.linkedin.com/in/kavipriya-magalingam-01b872294)
+
 💻 GitHub: [krithi30011996](https://github.com/krithi30011996)
+
 🌐 Portfolio: [kavipriya.in](https://www.kavipriya.in/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krithi30011996&label=Profile%20Views&color=2E9EF7&style=flat)
